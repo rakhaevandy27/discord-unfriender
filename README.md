@@ -14,12 +14,6 @@ A Python script to automate the removal of friends from your Discord account in 
 
 ---
 
-## 📸 Screenshots
-
-*(You can add relevant screenshots here if available)*
-
----
-
 ## ⚙️ Installation
 
 ```bash
